@@ -1,0 +1,17 @@
+{
+  "name": "blog-design2",
+  "version": "1.0.0",
+  "description": "simple blog website",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Lara Liyna Varol",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
